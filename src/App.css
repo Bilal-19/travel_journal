@@ -1,0 +1,34 @@
+* body {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  /* .header--style {
+    background-color: #F55A5A;
+    height: 55px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+  } */
+
+.bg-color {
+  background-color: #F55A5A;
+}
+
+.header--height {
+  height: 55px;
+}
+
+.card-width{
+  max-width: 540px;
+}
+
+.set-image-size {
+  width: 200px;
+  height: 250px;
+}
+
+.icon--color {
+  color: #F55A5A;
+}
